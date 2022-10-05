@@ -1,0 +1,33 @@
+.hero {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.colorSelection {
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+    margin-bottom: 20px;
+}
+
+.buttonWrapper {
+    height: 50px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonWrapper button {
+    color: white;
+    font-size: 26px;
+}
+
+.gameStatus {
+    font-size: 30px;
+    top: 20%;
+    position: absolute;
+}
