@@ -1,3 +1,3 @@
 # Color Picker Game
 
-![example.png?raw=true](example picture)
+![example picture](example.png)
